@@ -18,5 +18,6 @@ Librairie de fonctions en ASM.
 ## Compilation
 
 ```
+export LD_LIBRARY_PATH=./
 ./compile.sh
 ```
